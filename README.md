@@ -1,2 +1,5 @@
 # Tic-Tac-Toe
-Tic-Tac-Toe game
+
+###The project is a 3 by 3 grid Tic Tac Toe game with AI.
+
+
